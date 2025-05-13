@@ -142,17 +142,19 @@ async def process_urls_batch(urls: List[str]):
             await asyncio.sleep(1)
 
 # ПАРСИНГ САЙТІВ СЕЛЕНІУМОМ
-def Selenium_Parser(url: str, driver = None) -> str:
+def Selenium_Parser(url: str, driver=None) -> str:
     if not driver:
         options = webdriver.ChromeOptions()
-        options.add_argument("--headless")  # Додає headless режим. Відключая загрузку браузера
+        options.add_argument("--headless")  # Додає headless режим. Відключає завантаження браузера
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--disable-blink-features=AutomationControlled")  # Антідетект бота. Сховати заголовок автоматизації. WebDriver. Допоміг з гуглом.
-        #options.add_argument("excludeSwitches", ["enable-automation"])
-        #options.add_argument('useAutomationExtension', False)
+        options.add_argument(
+            "--disable-blink-features=AutomationControlled")  # Антідетект бота. Сховати заголовок автоматизації. WebDriver. Допоміг з гуглом.
+        # options.add_argument("excludeSwitches", ["enable-automation"])
+        # options.add_argument('useAutomationExtension', False)
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
     stealth(driver,
             languages=["en-US", "en"],
             vendor="Google Inc.",
@@ -161,30 +163,31 @@ def Selenium_Parser(url: str, driver = None) -> str:
             renderer="Intel Iris OpenGL Engine",
             fix_hairline=True)
 
+    logging.info(f"Початок парсингу сторінки: {url}")
+
     try:
+        logging.info(f"Початок парсингу сторінки: {url}")
         driver.get(url)
-        WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+        logging.info(f"Сторінка успішно завантажена: {url}")
 
-        scroll_duration = 6  # Тривалість прокрутки в секундах
-        scroll_speed = 180  # Швидкість прокрутки (в пікселях за один крок)
-        start_time = time.time()
+        # Логіка прокрутки сторінки (залишаємо ваші коментарі без змін)
+        for _ in range(10):
+            driver.execute_script("window.scrollBy(0, 300);")
+            time.sleep(0.5)
 
-        while time.time() - start_time < scroll_duration:
-            driver.execute_script(f"window.scrollBy(0, {scroll_speed});")
-            time.sleep(0.05)  # Інтервал між прокрутками
-
-        time.sleep(1)
         page_source = driver.page_source
+        logging.info(f"Парсинг сторінки завершено: {url}")
+
     except Exception as e:
-        logging.error(f'Помилка у Selenium: {str(e)}')
+        logging.error(f"Помилка під час парсингу {url}: {str(e)}")
         page_source = ''
+
     finally:
         try:
-            driver.close()
             driver.quit()
         except Exception as e:
-            logging.error(f'Помилка при закритті драйвера Selenium: {str(e)}')
-            page_source = ''
+            logging.error(f"Помилка при закритті драйвера: {str(e)}")
 
     return page_source
 
