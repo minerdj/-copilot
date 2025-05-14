@@ -1,0 +1,1308 @@
+2025-05-14 11:02:45,254 - DEBUG - Using proactor: IocpProactor
+2025-05-14 11:02:59,519 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,519 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-14 11:02:59,519 - DEBUG - Calling on_header_value with data[63:84]
+2025-05-14 11:02:59,519 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,519 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,519 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,519 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_field with data[132:151]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_value with data[153:177]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,520 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,520 - DEBUG - Calling on_part_data with data[181:538]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_part_data with data[0:2]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,520 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_field with data[584:603]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_value with data[605:629]
+2025-05-14 11:02:59,520 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_data with data[633:634]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_field with data[678:697]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_value with data[699:728]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_data with data[732:740]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_field with data[784:803]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_value with data[805:832]
+2025-05-14 11:02:59,521 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,521 - DEBUG - Calling on_part_data with data[836:839]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_field with data[883:902]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_value with data[904:931]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_data with data[935:942]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_field with data[986:1005]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_value with data[1007:1033]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_data with data[1037:1042]
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,522 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_field with data[1086:1105]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_value with data[1107:1131]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_data with data[1135:1492]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_data with data[0:2]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_field with data[1538:1557]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_value with data[1559:1598]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_data with data[1602:1607]
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,523 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_field with data[1651:1670]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_value with data[1672:1713]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_part_data with data[1717:1722]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_field with data[1766:1785]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_value with data[1787:1816]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_part_data with data[1820:1821]
+2025-05-14 11:02:59,524 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:02:59,524 - DEBUG - Calling on_end with no data
+2025-05-14 11:02:59,525 - INFO - ====== WebDriver manager ======
+2025-05-14 11:03:03,757 - DEBUG - Using proactor: IocpProactor
+2025-05-14 11:03:11,271 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,271 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-14 11:03:11,271 - DEBUG - Calling on_header_value with data[63:84]
+2025-05-14 11:03:11,271 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,271 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,271 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,271 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,271 - DEBUG - Calling on_header_field with data[132:151]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_value with data[153:177]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_data with data[181:538]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_data with data[0:2]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_field with data[584:603]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_value with data[605:629]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_data with data[633:634]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_field with data[678:697]
+2025-05-14 11:03:11,272 - DEBUG - Calling on_header_value with data[699:728]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_data with data[732:740]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_field with data[784:803]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_value with data[805:832]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_data with data[836:839]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_field with data[883:902]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_value with data[904:931]
+2025-05-14 11:03:11,273 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_data with data[935:942]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_field with data[986:1005]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_value with data[1007:1033]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_data with data[1037:1042]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_field with data[1086:1105]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_value with data[1107:1131]
+2025-05-14 11:03:11,274 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,274 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_data with data[1135:1492]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_data with data[0:2]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_field with data[1538:1557]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_value with data[1559:1598]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_data with data[1602:1607]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_field with data[1651:1670]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_value with data[1672:1713]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_data with data[1717:1722]
+2025-05-14 11:03:11,275 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,276 - DEBUG - Calling on_part_begin with no data
+2025-05-14 11:03:11,276 - DEBUG - Calling on_header_field with data[1766:1785]
+2025-05-14 11:03:11,276 - DEBUG - Calling on_header_value with data[1787:1816]
+2025-05-14 11:03:11,276 - DEBUG - Calling on_header_end with no data
+2025-05-14 11:03:11,276 - DEBUG - Calling on_headers_finished with no data
+2025-05-14 11:03:11,276 - DEBUG - Calling on_part_data with data[1820:1821]
+2025-05-14 11:03:11,276 - DEBUG - Calling on_part_end with no data
+2025-05-14 11:03:11,276 - DEBUG - Calling on_end with no data
+2025-05-14 11:03:11,277 - INFO - ====== WebDriver manager ======
+2025-05-14 11:03:12,073 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:03:12,625 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:03:13,204 - INFO - Driver [C:\Users\Пользователь\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-14 11:03:14,301 - INFO - [STEP 1: START PARSING] #1 - Selenium почав парсинг сторінки: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:14,301 - DEBUG - [DEBUG] Елемент <body> знайдено на сторінці: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:22,134 - INFO - [STEP 2: PAGE LOADED] Сторінка повністю завантажена: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:22,134 - DEBUG - [DEBUG] document.readyState = 'complete' для сторінки: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:34,153 - DEBUG - [Selenium_Parser] Прокрутка сторінки виконана: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:34,187 - INFO - [STEP 3: PARSING COMPLETED] Парсинг сторінки завершено: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:34,187 - DEBUG - [DEBUG] Отриманий HTML-код для сторінки: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:37,309 - INFO - [STEP 4: DRIVER CLOSED] Драйвер успішно закрито для сторінки: https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .wrapper>header.header
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .container>button.top-line__btn-hamburger.js-menu-opener
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .container>nav.menu
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .container>nav.menu.personal
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.js-submenu-opener.mobile-hidden
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.mobile-visible.js-login-opener
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>.nav__submenu.stick_right.js-submenu
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - nav.nav>.nav__item.nav__has-submenu.js-nav-item
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - .container>.search.search-header.js-search
+2025-05-14 11:03:41,568 - DEBUG - Removing unlikely candidate - header.header>#menu-overlay.overlay.js-menu
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - #js-overlay-wrapper.overlay-wrapper>.menu-closer__wrapper
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .menu-closer__wrapper>button.menu-closer.js-menu-closer
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - #js-overlay-wrapper.overlay-wrapper>.overlay-menu.beauty-scroll
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>.mobile-menu.mobile-only
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.js-submenu-opener.mobile-hidden
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.mobile-visible.js-login-opener
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>.nav__submenu.stick_right.js-submenu
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav#menu-mobile-posts.menu.menu-goods.nav__item.js-menu.js-nav-item
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - nav#menu-mobile-posts.menu.menu-goods.nav__item.js-menu.js-nav-item>.nav__item.nav__has-submenu
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .nav__item.nav__has-submenu>a.title.js-submenu-opener
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .nav__item.nav__has-submenu>.nav__submenu.nav__has-submenu.js-submenu
+2025-05-14 11:03:41,569 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav.nav.js-menu.mobile-only
+2025-05-14 11:03:41,570 - DEBUG - Removing unlikely candidate - nav.nav.js-menu.mobile-only>.nav__item.nav__has-submenu.js-nav-item
+2025-05-14 11:03:41,570 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav.menu.header-top.js-menu.mobile-only
+2025-05-14 11:03:41,570 - DEBUG - Removing unlikely candidate - #menu-overlay.overlay.js-menu>.cover.js-menu-closer
+2025-05-14 11:03:41,570 - DEBUG - Removing unlikely candidate - .prm-body.prm-help>.prm-header
+2025-05-14 11:03:41,571 - DEBUG - Removing unlikely candidate - .article-footer__info-tags>span.comments-amount
+2025-05-14 11:03:41,572 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,572 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,572 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,572 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,572 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,573 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,573 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,573 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,573 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,573 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,574 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,574 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,574 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,574 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,574 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,575 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,575 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,575 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,575 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,575 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,576 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,577 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,577 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,577 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,577 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,577 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - main.container.article-wrap>.popup-wrapper
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - .popup-wrapper>.popup-overlay
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - .popup-wrapper>#comment-success.popup-wrapper__inner
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - #comment-success.popup-wrapper__inner>.popup
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - .popup>button.button.popup__close
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - .popup>.popup__inner
+2025-05-14 11:03:41,578 - DEBUG - Removing unlikely candidate - .wrapper>footer.footer
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - footer.footer>.container.footer__mail
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - .container.footer__mail>p.footer__social-text
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - footer.footer>ul.container.footer__inner
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - li>ul.footer__list
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,579 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - li>ul.footer__list
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,580 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - ul.container.footer__inner>li.footer__social
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - li.footer__social>.footer__social-container
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .footer__social-container>p.footer__social-text
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .footer__social-container>.footer__app
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .footer__app>.footer__app-text
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .footer__app>img.footer__item-row.footer__item-qr
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - li.footer__social>.footer__item.social
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .footer__item.social>h4.footer__title
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - footer.footer>.container.footer__bottom
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .container.footer__bottom>a.footer__bottom-link.link
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .container.footer__bottom>span.footer__bottom-copyright
+2025-05-14 11:03:41,581 - DEBUG - Removing unlikely candidate - .container.footer__bottom>.footer__bottom-akita
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - body#readabilityBody.beauty-scroll>.popup-wrapper
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - .popup-wrapper>.popup-overlay
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - .popup-wrapper>#auth-modal.popup-wrapper__inner
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - #auth-modal.popup-wrapper__inner>.popup.popup_auth
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - .popup.popup_auth>button.button.popup__close
+2025-05-14 11:03:41,582 - DEBUG - Removing unlikely candidate - .popup.popup_auth>.popup__inner
+2025-05-14 11:03:41,604 - DEBUG - Branch 18.000 .mt-30.prm-flex-row>.prm-col-8 link density 0.000 -> 18.000
+2025-05-14 11:03:41,604 - DEBUG - Branch 11.500 .prm-text>.mt-30.prm-flex-row link density 0.000 -> 11.500
+2025-05-14 11:03:41,605 - DEBUG - Branch 119.430 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.000 -> 119.430
+2025-05-14 11:03:41,605 - DEBUG - Branch 62.215 .prm-text>.mt-70.prm-flex-row.prm-flex-end link density 0.012 -> 61.472
+2025-05-14 11:03:41,605 - DEBUG - Branch  2.750 div{01}>a.prm-link-image.prm-link--clear link density 0.000 ->  2.750
+2025-05-14 11:03:41,605 - DEBUG - Branch  6.375 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{01} link density 0.765 ->  1.496
+2025-05-14 11:03:41,605 - DEBUG - Branch 25.000 .mt-70.prm-flex-row>.prm-col-8 link density 0.021 -> 24.475
+2025-05-14 11:03:41,606 - DEBUG - Branch 15.000 .prm-text>.mt-70.prm-flex-row link density 0.021 -> 14.685
+2025-05-14 11:03:41,606 - DEBUG - Branch  2.280 .prm-cards>a.prm-card-2.prm-card-3.prm-link--clear link density 0.000 ->  2.280
+2025-05-14 11:03:41,606 - DEBUG - Branch  8.485 .prm-col-8>.prm-cards link density 0.989 ->  0.097
+2025-05-14 11:03:41,606 - DEBUG - Branch  2.270 .prm-cards>a.prm-card-2.prm-card-3.prm-link--clear link density 0.000 ->  2.270
+2025-05-14 11:03:41,606 - DEBUG - Branch  2.420 .prm-cards>a.prm-card-2.prm-card-3.prm-link--clear link density 0.000 ->  2.420
+2025-05-14 11:03:41,606 - DEBUG - Branch 29.000 .mt-30.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.000 -> 29.000
+2025-05-14 11:03:41,606 - DEBUG - Branch 17.000 .prm-text>.mt-30.prm-flex-row.prm-flex-end link density 0.030 -> 16.487
+2025-05-14 11:03:41,606 - DEBUG - Branch  2.420 div{02}>a.prm-link-image.prm-link--clear link density 0.000 ->  2.420
+2025-05-14 11:03:41,607 - DEBUG - Branch  6.210 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{02} link density 0.646 ->  2.197
+2025-05-14 11:03:41,607 - DEBUG - Branch  9.330 .mt-70.prm-flex-row>.prm-col-8 link density 0.000 ->  9.330
+2025-05-14 11:03:41,607 - DEBUG - Branch  7.165 .prm-text>.mt-70.prm-flex-row link density 0.000 ->  7.165
+2025-05-14 11:03:41,607 - DEBUG - Branch  7.370 .mt-25.prm-flex-row>.prm-col-8 link density 0.000 ->  7.370
+2025-05-14 11:03:41,607 - DEBUG - Branch  6.185 .prm-text>.mt-25.prm-flex-row link density 0.000 ->  6.185
+2025-05-14 11:03:41,607 - DEBUG - Branch 10.000 .mt-40.prm-flex-row>.prm-col-8 link density 0.039 ->  9.608
+2025-05-14 11:03:41,607 - DEBUG - Branch  7.500 .prm-text>.mt-40.prm-flex-row link density 0.039 ->  7.206
+2025-05-14 11:03:41,607 - DEBUG - Branch 13.000 .mt-25.prm-flex-row>.prm-col-8 link density 0.025 -> 12.677
+2025-05-14 11:03:41,607 - DEBUG - Branch  9.000 .prm-text>.mt-25.prm-flex-row link density 0.025 ->  8.776
+2025-05-14 11:03:41,608 - DEBUG - Branch 15.000 .mt-25.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.028 -> 14.575
+2025-05-14 11:03:41,608 - DEBUG - Branch 10.000 .prm-text>.mt-25.prm-flex-row.prm-flex-end link density 0.028 ->  9.717
+2025-05-14 11:03:41,608 - DEBUG - Branch  7.310 .mt-50.prm-flex-row>.prm-col-8 link density 0.000 ->  7.310
+2025-05-14 11:03:41,608 - DEBUG - Branch  6.155 .prm-text>.mt-50.prm-flex-row link density 0.000 ->  6.155
+2025-05-14 11:03:41,608 - DEBUG - Branch 15.000 .mt-25.prm-flex-row>.prm-col-8 link density 0.038 -> 14.427
+2025-05-14 11:03:41,608 - DEBUG - Branch 10.000 .prm-text>.mt-25.prm-flex-row link density 0.038 ->  9.618
+2025-05-14 11:03:41,608 - DEBUG - Branch  7.340 .mt-50.prm-flex-row>.prm-col-8 link density 0.000 ->  7.340
+2025-05-14 11:03:41,608 - DEBUG - Branch  6.170 .prm-text>.mt-50.prm-flex-row link density 0.000 ->  6.170
+2025-05-14 11:03:41,608 - DEBUG - Branch 12.000 .mt-25.prm-flex-row>.prm-col-8 link density 0.027 -> 11.676
+2025-05-14 11:03:41,609 - DEBUG - Branch  8.500 .prm-text>.mt-25.prm-flex-row link density 0.027 ->  8.271
+2025-05-14 11:03:41,609 - DEBUG - Branch  7.360 .mt-50.prm-flex-row>.prm-col-8 link density 0.000 ->  7.360
+2025-05-14 11:03:41,609 - DEBUG - Branch  6.180 .prm-text>.mt-50.prm-flex-row link density 0.000 ->  6.180
+2025-05-14 11:03:41,609 - DEBUG - Branch 12.000 .mt-25.prm-flex-row>.prm-col-8 link density 0.029 -> 11.655
+2025-05-14 11:03:41,609 - DEBUG - Branch  8.500 .prm-text>.mt-25.prm-flex-row link density 0.029 ->  8.256
+2025-05-14 11:03:41,609 - DEBUG - Branch 15.000 .mt-25.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.022 -> 14.666
+2025-05-14 11:03:41,609 - DEBUG - Branch 10.000 .prm-text>.mt-25.prm-flex-row.prm-flex-end link density 0.126 ->  8.741
+2025-05-14 11:03:41,609 - DEBUG - Branch  3.780 div{03}>a.prm-link-image.prm-link--clear link density 0.000 ->  3.780
+2025-05-14 11:03:41,609 - DEBUG - Branch  6.890 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{03} link density 0.772 ->  1.569
+2025-05-14 11:03:41,610 - DEBUG - Branch 16.830 .mt-15.mb-120.prm-flex-row>.prm-col-8 link density 0.076 -> 15.545
+2025-05-14 11:03:41,610 - DEBUG - Branch 10.915 .prm-text>.mt-15.mb-120.prm-flex-row link density 0.076 -> 10.082
+2025-05-14 11:03:41,610 - DEBUG - Branch -2.480 article.article.custom.js-article>footer.article-footer link density 0.719 -> -0.696
+2025-05-14 11:03:41,613 - DEBUG - Branch 31.260 main.container.article-wrap>article.article.custom.js-article link density 0.215 -> 24.529
+2025-05-14 11:03:41,613 - DEBUG - Top 5 : 119.430 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8
+2025-05-14 11:03:41,613 - DEBUG - Top 5 : 61.472 .prm-text>.mt-70.prm-flex-row.prm-flex-end
+2025-05-14 11:03:41,613 - DEBUG - Top 5 : 29.000 .mt-30.prm-flex-row.prm-flex-end>.prm-col-8
+2025-05-14 11:03:41,613 - DEBUG - Top 5 : 24.529 main.container.article-wrap>article.article.custom.js-article
+2025-05-14 11:03:41,613 - DEBUG - Top 5 : 24.475 .mt-70.prm-flex-row>.prm-col-8
+2025-05-14 11:03:41,728 - INFO - ====== WebDriver manager ======
+2025-05-14 11:03:42,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:03:43,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:03:43,665 - INFO - Driver [C:\Users\Пользователь\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-14 11:03:44,776 - INFO - [STEP 1: START PARSING] #2 - Selenium почав парсинг сторінки: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:03:44,798 - DEBUG - [DEBUG] Елемент <body> знайдено на сторінці: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:03:50,107 - INFO - [STEP 2: PAGE LOADED] Сторінка повністю завантажена: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:03:50,107 - DEBUG - [DEBUG] document.readyState = 'complete' для сторінки: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:04:02,128 - DEBUG - [Selenium_Parser] Прокрутка сторінки виконана: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:04:02,148 - INFO - [STEP 3: PARSING COMPLETED] Парсинг сторінки завершено: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:04:02,148 - DEBUG - [DEBUG] Отриманий HTML-код для сторінки: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:04:05,061 - INFO - [STEP 4: DRIVER CLOSED] Драйвер успішно закрито для сторінки: https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .wrapper>header.header
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .container>button.top-line__btn-hamburger.js-menu-opener
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .container>nav.menu
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .container>nav.menu.personal
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.js-submenu-opener.mobile-hidden
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.mobile-visible.js-login-opener
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>.nav__submenu.stick_right.js-submenu
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - nav.nav>.nav__item.nav__has-submenu.js-nav-item
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - .container>.search.search-header.js-search
+2025-05-14 11:04:09,217 - DEBUG - Removing unlikely candidate - header.header>#menu-overlay.overlay.js-menu
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - #js-overlay-wrapper.overlay-wrapper>.menu-closer__wrapper
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .menu-closer__wrapper>button.menu-closer.js-menu-closer
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - #js-overlay-wrapper.overlay-wrapper>.overlay-menu.beauty-scroll
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>.mobile-menu.mobile-only
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.js-submenu-opener.mobile-hidden
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>a.nav__link.nav__link_submenu.mobile-visible.js-login-opener
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .nav__item.js-nav-item>.nav__submenu.stick_right.js-submenu
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav#menu-mobile-posts.menu.menu-goods.nav__item.js-menu.js-nav-item
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - nav#menu-mobile-posts.menu.menu-goods.nav__item.js-menu.js-nav-item>.nav__item.nav__has-submenu
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .nav__item.nav__has-submenu>a.title.js-submenu-opener
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .nav__item.nav__has-submenu>.nav__submenu.nav__has-submenu.js-submenu
+2025-05-14 11:04:09,218 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav.nav.js-menu.mobile-only
+2025-05-14 11:04:09,219 - DEBUG - Removing unlikely candidate - nav.nav.js-menu.mobile-only>.nav__item.nav__has-submenu.js-nav-item
+2025-05-14 11:04:09,219 - DEBUG - Removing unlikely candidate - .overlay-menu.beauty-scroll>nav.menu.header-top.js-menu.mobile-only
+2025-05-14 11:04:09,219 - DEBUG - Removing unlikely candidate - #menu-overlay.overlay.js-menu>.cover.js-menu-closer
+2025-05-14 11:04:09,219 - DEBUG - Removing unlikely candidate - .prm-body.prm-help>.prm-header
+2025-05-14 11:04:09,220 - DEBUG - Removing unlikely candidate - .article-footer__info-tags>span.comments-amount
+2025-05-14 11:04:09,220 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,220 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,220 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,221 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,221 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,221 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,221 - DEBUG - Removing unlikely candidate - .container-review-info>span.comments-count
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - main.container.article-wrap>.popup-wrapper
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .popup-wrapper>.popup-overlay
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .popup-wrapper>#comment-success.popup-wrapper__inner
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - #comment-success.popup-wrapper__inner>.popup
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .popup>button.button.popup__close
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .popup>.popup__inner
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .wrapper>footer.footer
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - footer.footer>.container.footer__mail
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - .container.footer__mail>p.footer__social-text
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - footer.footer>ul.container.footer__inner
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - li>ul.footer__list
+2025-05-14 11:04:09,222 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,223 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list.footer__list--column>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - li>h4.footer__title
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - li>ul.footer__list
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.footer__list>li.footer__list-item
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - ul.container.footer__inner>li.footer__social
+2025-05-14 11:04:09,224 - DEBUG - Removing unlikely candidate - li.footer__social>.footer__social-container
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .footer__social-container>p.footer__social-text
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .footer__social-container>.footer__app
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .footer__app>.footer__app-text
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .footer__app>img.footer__item-row.footer__item-qr
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - li.footer__social>.footer__item.social
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .footer__item.social>h4.footer__title
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - footer.footer>.container.footer__bottom
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .container.footer__bottom>a.footer__bottom-link.link
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .container.footer__bottom>span.footer__bottom-copyright
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .container.footer__bottom>.footer__bottom-akita
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - body#readabilityBody.beauty-scroll>.popup-wrapper
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .popup-wrapper>.popup-overlay
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .popup-wrapper>#auth-modal.popup-wrapper__inner
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - #auth-modal.popup-wrapper__inner>.popup.popup_auth
+2025-05-14 11:04:09,225 - DEBUG - Removing unlikely candidate - .popup.popup_auth>button.button.popup__close
+2025-05-14 11:04:09,226 - DEBUG - Removing unlikely candidate - .popup.popup_auth>.popup__inner
+2025-05-14 11:04:09,234 - DEBUG - Branch 14.000 .mt-30.prm-flex-row>.prm-col-8 link density 0.000 -> 14.000
+2025-05-14 11:04:09,234 - DEBUG - Branch  9.500 .prm-text>.mt-30.prm-flex-row link density 0.000 ->  9.500
+2025-05-14 11:04:09,234 - DEBUG - Branch 45.285 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.000 -> 45.285
+2025-05-14 11:04:09,234 - DEBUG - Branch 24.485 .prm-text>.mt-70.prm-flex-row.prm-flex-end link density 0.036 -> 23.608
+2025-05-14 11:04:09,235 - DEBUG - Branch  7.630 .prm-col-8>.prm-left-line.prm-left-line-green.mt-15 link density 0.000 ->  7.630
+2025-05-14 11:04:09,235 - DEBUG - Branch 20.000 .prm-d-flex.prm-m-d-block>div{01} link density 0.000 -> 20.000
+2025-05-14 11:04:09,235 - DEBUG - Branch 12.500 li>.prm-d-flex.prm-m-d-block link density 0.000 -> 12.500
+2025-05-14 11:04:09,235 - DEBUG - Branch  9.430 .prm-d-flex.prm-m-d-block>div{02} link density 0.000 ->  9.430
+2025-05-14 11:04:09,235 - DEBUG - Branch  7.215 li.mt-10>.prm-d-flex.prm-m-d-block link density 0.000 ->  7.215
+2025-05-14 11:04:09,235 - DEBUG - Branch  2.830 div{03}>a.prm-link-image.prm-link--clear link density 0.000 ->  2.830
+2025-05-14 11:04:09,235 - DEBUG - Branch  6.415 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{03} link density 0.783 ->  1.392
+2025-05-14 11:04:09,235 - DEBUG - Branch 38.370 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.000 -> 38.370
+2025-05-14 11:04:09,236 - DEBUG - Branch 21.685 .prm-text>.mt-70.prm-flex-row.prm-flex-end link density 0.029 -> 21.055
+2025-05-14 11:04:09,236 - DEBUG - Branch  2.640 div{04}>a.prm-link-image.prm-link--clear link density 0.000 ->  2.640
+2025-05-14 11:04:09,236 - DEBUG - Branch  6.320 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{04} link density 0.736 ->  1.671
+2025-05-14 11:04:09,236 - DEBUG - Branch 36.460 .mt-70.prm-flex-row>.prm-col-8 link density 0.000 -> 36.460
+2025-05-14 11:04:09,236 - DEBUG - Branch 20.730 .prm-text>.mt-70.prm-flex-row link density 0.000 -> 20.730
+2025-05-14 11:04:09,237 - DEBUG - Branch 18.000 .mt-70.prm-flex-row>.prm-col-8 link density 0.000 -> 18.000
+2025-05-14 11:04:09,237 - DEBUG - Branch 11.500 .prm-text>.mt-70.prm-flex-row link density 0.000 -> 11.500
+2025-05-14 11:04:09,237 - DEBUG - Branch 64.250 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8 link density 0.000 -> 64.250
+2025-05-14 11:04:09,237 - DEBUG - Branch 32.125 .prm-text>.mt-70.prm-flex-row.prm-flex-end link density 0.020 -> 31.475
+2025-05-14 11:04:09,237 - DEBUG - Branch 15.000 .prm-col-8>.prm-left-line.prm-left-line-green.mt-15 link density 0.000 -> 15.000
+2025-05-14 11:04:09,237 - DEBUG - Branch  2.480 div{05}>a.prm-link-image.prm-link--clear link density 0.000 ->  2.480
+2025-05-14 11:04:09,238 - DEBUG - Branch  6.240 .prm-col-2.prm-offset-1.prm-pr-0.m-mt-40>div{05} link density 0.676 ->  2.021
+2025-05-14 11:04:09,238 - DEBUG - Branch  7.870 .mt-15.mb-120.prm-flex-row>.prm-col-8 link density 0.161 ->  6.604
+2025-05-14 11:04:09,238 - DEBUG - Branch  6.435 .prm-text>.mt-15.mb-120.prm-flex-row link density 0.161 ->  5.399
+2025-05-14 11:04:09,238 - DEBUG - Branch 15.180 .article-footer__user>.user link density 0.064 -> 14.207
+2025-05-14 11:04:09,238 - DEBUG - Branch 10.090 .article-footer__short>.article-footer__user link density 0.062 ->  9.462
+2025-05-14 11:04:09,238 - DEBUG - Branch -2.480 article.article.custom.js-article>footer.article-footer link density 0.049 -> -2.358
+2025-05-14 11:04:09,239 - DEBUG - Branch 31.260 main.container.article-wrap>article.article.custom.js-article link density 0.159 -> 26.303
+2025-05-14 11:04:09,240 - DEBUG - Top 5 : 64.250 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8
+2025-05-14 11:04:09,240 - DEBUG - Top 5 : 45.285 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8
+2025-05-14 11:04:09,240 - DEBUG - Top 5 : 38.370 .mt-70.prm-flex-row.prm-flex-end>.prm-col-8
+2025-05-14 11:04:09,240 - DEBUG - Top 5 : 36.460 .mt-70.prm-flex-row>.prm-col-8
+2025-05-14 11:04:09,240 - DEBUG - Top 5 : 31.475 .prm-text>.mt-70.prm-flex-row.prm-flex-end
+2025-05-14 11:04:09,240 - DEBUG - Not removing .prm-col-8>.prm-left-line.prm-left-line-green.mt-15 of length 300:  Но всего этого легко можно избежать, сл...
+2025-05-14 11:04:09,275 - INFO - ====== WebDriver manager ======
+2025-05-14 11:04:10,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:04:10,663 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:04:11,223 - INFO - Driver [C:\Users\Пользователь\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-14 11:04:12,321 - INFO - [STEP 1: START PARSING] #3 - Selenium почав парсинг сторінки: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:12,321 - DEBUG - [DEBUG] Елемент <body> знайдено на сторінці: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:16,204 - INFO - [STEP 2: PAGE LOADED] Сторінка повністю завантажена: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:16,204 - DEBUG - [DEBUG] document.readyState = 'complete' для сторінки: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:28,226 - DEBUG - [Selenium_Parser] Прокрутка сторінки виконана: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:28,239 - INFO - [STEP 3: PARSING COMPLETED] Парсинг сторінки завершено: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:28,240 - DEBUG - [DEBUG] Отриманий HTML-код для сторінки: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:31,153 - INFO - [STEP 4: DRIVER CLOSED] Драйвер успішно закрито для сторінки: https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu
+2025-05-14 11:04:35,310 - DEBUG - Removing unlikely candidate - body#readabilityBody.isDesktop>header#js-site-header.site-header.sticky
+2025-05-14 11:04:35,310 - DEBUG - Removing unlikely candidate - a.h-tel-note.cm-toggler>.h-submenu.cm.cm_corner
+2025-05-14 11:04:35,310 - DEBUG - Removing unlikely candidate - .h-submenu.cm.cm_corner>.h-submenu-title
+2025-05-14 11:04:35,310 - DEBUG - Removing unlikely candidate - .h-deliv>.h-deliv-popup.is-first-visit
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-title
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-btns
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-note
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-toolbar.wrapper>.h-menu_toggler.js-c-toggler
+2025-05-14 11:04:35,311 - DEBUG - Removing unlikely candidate - .h-menu_toggler.js-c-toggler>svg.h-menu_toggler-ico.icon
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - .c-container.js-c-container>header.c-header
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item.mw-toggler
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>svg.c-header-ico.icon
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>span.c-header-title
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item>svg.c-header-ico.icon
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item>span.c-header-title
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item>span.c-header-count
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item.mw-toggler
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>svg.c-header-ico.icon
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>span.c-header-title
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - .c-container.js-c-container>ul.c-menu.js-c-menu
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-title
+2025-05-14 11:04:35,312 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,313 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,314 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,315 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,316 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,317 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,318 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,319 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,320 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,321 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,322 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,323 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,324 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,325 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,326 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,327 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,328 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,329 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,330 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-menu-item>a.c-menu-link
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - a.c-menu-link>.c-menu-subtitle
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:04:35,331 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-border
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-title
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,332 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .grid>.m-sidebar
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .m-sidebar>.m-menu
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link.active
+2025-05-14 11:04:35,333 - DEBUG - Removing unlikely candidate - body#readabilityBody.isDesktop>footer.site-footer
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu0.f-col-menu
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu1.f-col-menu
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu2.f-col-menu
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu3.f-col-menu
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - svg>symbol#icon-menu
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - svg>symbol#icon-menu-lines
+2025-05-14 11:04:35,334 - DEBUG - Removing unlikely candidate - svg>symbol#icon-multimedia-menu
+2025-05-14 11:04:35,339 - DEBUG - Branch 74.580 .m-text.m-inner>div{01} link density 0.023 -> 72.896
+2025-05-14 11:04:35,340 - DEBUG - Branch 64.790 .grid>.m-text.m-inner link density 0.027 -> 63.059
+2025-05-14 11:04:35,340 - DEBUG - Branch -0.440 ol>li link density 0.000 -> -0.440
+2025-05-14 11:04:35,340 - DEBUG - Branch -0.470 div{01}>ol link density 0.000 -> -0.470
+2025-05-14 11:04:35,340 - DEBUG - Branch -0.500 ol>li link density 0.000 -> -0.500
+2025-05-14 11:04:35,340 - DEBUG - Branch  0.580 ol>li link density 0.000 ->  0.580
+2025-05-14 11:04:35,340 - DEBUG - Branch  0.160 div{01}>ol link density 0.000 ->  0.160
+2025-05-14 11:04:35,340 - DEBUG - Branch -0.260 ol>li link density 0.000 -> -0.260
+2025-05-14 11:04:35,341 - DEBUG - Branch  0.600 ol>li link density 0.000 ->  0.600
+2025-05-14 11:04:35,341 - DEBUG - Branch  0.665 div{01}>ol link density 0.000 ->  0.665
+2025-05-14 11:04:35,341 - DEBUG - Branch  0.730 ol>li link density 0.000 ->  0.730
+2025-05-14 11:04:35,341 - DEBUG - Branch  0.760 ol>li link density 0.000 ->  0.760
+2025-05-14 11:04:35,341 - DEBUG - Branch  2.905 div{01}>ol link density 0.000 ->  2.905
+2025-05-14 11:04:35,341 - DEBUG - Branch -0.450 ol>li link density 0.000 -> -0.450
+2025-05-14 11:04:35,341 - DEBUG - Branch -0.140 ol>li link density 0.000 -> -0.140
+2025-05-14 11:04:35,341 - DEBUG - Branch -0.360 ol>li link density 0.000 -> -0.360
+2025-05-14 11:04:35,341 - DEBUG - Branch  0.600 ol>li link density 0.000 ->  0.600
+2025-05-14 11:04:35,341 - DEBUG - Branch  2.470 div{01}>ol link density 0.000 ->  2.470
+2025-05-14 11:04:35,341 - DEBUG - Branch -0.080 ol>li link density 0.000 -> -0.080
+2025-05-14 11:04:35,342 - DEBUG - Branch  1.420 ol>li link density 0.000 ->  1.420
+2025-05-14 11:04:35,342 - DEBUG - Branch -0.350 ol>li link density 0.000 -> -0.350
+2025-05-14 11:04:35,342 - DEBUG - Branch  2.105 div{01}>ol link density 0.000 ->  2.105
+2025-05-14 11:04:35,342 - DEBUG - Branch -0.580 ol>li link density 0.000 -> -0.580
+2025-05-14 11:04:35,342 - DEBUG - Branch  2.140 ol>li link density 0.000 ->  2.140
+2025-05-14 11:04:35,342 - DEBUG - Branch 33.910 .cookie-consent.js-cookie-consent>.cookie-consent__content link density 0.287 -> 24.184
+2025-05-14 11:04:35,342 - DEBUG - Branch  6.955 body#readabilityBody.isDesktop>.cookie-consent.js-cookie-consent link density 0.321 ->  4.721
+2025-05-14 11:04:35,342 - DEBUG - Branch 22.000 body#readabilityBody.isDesktop>#mw_cookie.mw-wrapper link density 0.000 -> 22.000
+2025-05-14 11:04:35,343 - DEBUG - Branch 33.500 html>body#readabilityBody.isDesktop link density 0.048 -> 31.907
+2025-05-14 11:04:35,343 - DEBUG - Branch  8.930 form.mw.mw_small>.form-row link density 0.105 ->  7.994
+2025-05-14 11:04:35,343 - DEBUG - Branch -1.035 #mw_login.mw-wrapper>form.mw.mw_small link density 0.104 -> -0.927
+2025-05-14 11:04:35,343 - DEBUG - Branch -0.680 #mw_notify_available.mw-wrapper>form.mw.mw_small link density 0.000 -> -0.680
+2025-05-14 11:04:35,344 - DEBUG - Branch  6.160 body#readabilityBody.isDesktop>#mw_notify_available.mw-wrapper link density 0.000 ->  6.160
+2025-05-14 11:04:35,344 - DEBUG - Branch 33.390 .form-row>.form-text.breff link density 0.000 -> 33.390
+2025-05-14 11:04:35,344 - DEBUG - Branch  6.695 form.mw.mw_small>.form-row link density 0.000 ->  6.695
+2025-05-14 11:04:35,344 - DEBUG - Top 5 : 72.896 .m-text.m-inner>div{01}
+2025-05-14 11:04:35,344 - DEBUG - Top 5 : 63.059 .grid>.m-text.m-inner
+2025-05-14 11:04:35,344 - DEBUG - Top 5 : 33.390 .form-row>.form-text.breff
+2025-05-14 11:04:35,344 - DEBUG - Top 5 : 31.907 html>body#readabilityBody.isDesktop
+2025-05-14 11:04:35,344 - DEBUG - Top 5 : 24.184 .cookie-consent.js-cookie-consent>.cookie-consent__content
+2025-05-14 11:04:35,394 - INFO - ====== WebDriver manager ======
+2025-05-14 11:04:36,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:04:36,727 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-14 11:04:37,285 - INFO - Driver [C:\Users\Пользователь\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-14 11:04:38,369 - INFO - [STEP 1: START PARSING] #4 - Selenium почав парсинг сторінки: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:38,369 - DEBUG - [DEBUG] Елемент <body> знайдено на сторінці: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:41,245 - INFO - [STEP 2: PAGE LOADED] Сторінка повністю завантажена: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:41,245 - DEBUG - [DEBUG] document.readyState = 'complete' для сторінки: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:53,265 - DEBUG - [Selenium_Parser] Прокрутка сторінки виконана: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:53,278 - INFO - [STEP 3: PARSING COMPLETED] Парсинг сторінки завершено: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:53,278 - DEBUG - [DEBUG] Отриманий HTML-код для сторінки: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:04:56,276 - INFO - [STEP 4: DRIVER CLOSED] Драйвер успішно закрито для сторінки: https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol
+2025-05-14 11:05:00,435 - DEBUG - Removing unlikely candidate - body#readabilityBody.isDesktop>header#js-site-header.site-header.sticky
+2025-05-14 11:05:00,435 - DEBUG - Removing unlikely candidate - a.h-tel-note.cm-toggler>.h-submenu.cm.cm_corner
+2025-05-14 11:05:00,435 - DEBUG - Removing unlikely candidate - .h-submenu.cm.cm_corner>.h-submenu-title
+2025-05-14 11:05:00,435 - DEBUG - Removing unlikely candidate - .h-deliv>.h-deliv-popup.is-first-visit
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-title
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-btns
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .cm.cm_corner.cm_dark.cm_fixpos.cm_styles>.h-deliv-popup-note
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-links>.h-menu-item
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-toolbar.wrapper>.h-menu_toggler.js-c-toggler
+2025-05-14 11:05:00,436 - DEBUG - Removing unlikely candidate - .h-menu_toggler.js-c-toggler>svg.h-menu_toggler-ico.icon
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - .c-container.js-c-container>header.c-header
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item.mw-toggler
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>svg.c-header-ico.icon
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>span.c-header-title
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item>svg.c-header-ico.icon
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item>span.c-header-title
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item>span.c-header-count
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - header.c-header>a.c-header-item.mw-toggler
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>svg.c-header-ico.icon
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - a.c-header-item.mw-toggler>span.c-header-title
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - .c-container.js-c-container>ul.c-menu.js-c-menu
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-title
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,437 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,438 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,439 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,440 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,441 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,442 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,443 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,444 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,445 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,446 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,447 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,448 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,449 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,450 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.has_submenu
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>a.c-menu-link.js-c-submenu-switch
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>.c-menu-subtitle
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - a.c-menu-link.js-c-submenu-switch>svg.c-menu-arr.icon
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-menu-item.has_submenu>.c-submenu-container.js-c-submenu-container
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>a.c-submenu-title.js-c-submenu-title
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - .c-submenu-container.js-c-submenu-container>ul.c-submenu
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,451 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,452 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,453 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,454 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,455 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-submenu>li.c-submenu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-submenu-item>a.c-submenu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-menu-item>a.c-menu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - a.c-menu-link>.c-menu-subtitle
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:05:00,456 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_spec
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_spec>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - a.c-menu-link>svg.c-menu-ico.icon
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-border
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-title
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,457 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - ul.c-menu.js-c-menu>li.c-menu-item.c-menu-item_addit
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - li.c-menu-item.c-menu-item_addit>a.c-menu-link
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .grid>.m-sidebar
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .m-sidebar>.m-menu
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .m-menu>a.m-menu-link.active
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - body#readabilityBody.isDesktop>footer.site-footer
+2025-05-14 11:05:00,458 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu0.f-col-menu
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu1.f-col-menu
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu2.f-col-menu
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - .f-col>#js-f-col-menu3.f-col-menu
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - svg>symbol#icon-menu
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - svg>symbol#icon-menu-lines
+2025-05-14 11:05:00,459 - DEBUG - Removing unlikely candidate - svg>symbol#icon-multimedia-menu
+2025-05-14 11:05:00,464 - DEBUG - Branch 122.440 .m-text.m-inner>div{01} link density 0.000 -> 122.440
+2025-05-14 11:05:00,464 - DEBUG - Branch 88.720 .grid>.m-text.m-inner link density 0.005 -> 88.278
+2025-05-14 11:05:00,464 - DEBUG - Branch 33.910 .cookie-consent.js-cookie-consent>.cookie-consent__content link density 0.287 -> 24.184
+2025-05-14 11:05:00,464 - DEBUG - Branch  6.955 body#readabilityBody.isDesktop>.cookie-consent.js-cookie-consent link density 0.321 ->  4.721
+2025-05-14 11:05:00,464 - DEBUG - Branch 22.000 body#readabilityBody.isDesktop>#mw_cookie.mw-wrapper link density 0.000 -> 22.000
+2025-05-14 11:05:00,465 - DEBUG - Branch 33.500 html>body#readabilityBody.isDesktop link density 0.031 -> 32.462
+2025-05-14 11:05:00,465 - DEBUG - Branch  8.930 form.mw.mw_small>.form-row link density 0.105 ->  7.994
+2025-05-14 11:05:00,465 - DEBUG - Branch -1.035 #mw_login.mw-wrapper>form.mw.mw_small link density 0.104 -> -0.927
+2025-05-14 11:05:00,466 - DEBUG - Branch -0.680 #mw_notify_available.mw-wrapper>form.mw.mw_small link density 0.000 -> -0.680
+2025-05-14 11:05:00,466 - DEBUG - Branch  6.160 body#readabilityBody.isDesktop>#mw_notify_available.mw-wrapper link density 0.000 ->  6.160
+2025-05-14 11:05:00,466 - DEBUG - Branch 33.390 .form-row>.form-text.breff link density 0.000 -> 33.390
+2025-05-14 11:05:00,466 - DEBUG - Branch  6.695 form.mw.mw_small>.form-row link density 0.000 ->  6.695
+2025-05-14 11:05:00,466 - DEBUG - Top 5 : 122.440 .m-text.m-inner>div{01}
+2025-05-14 11:05:00,466 - DEBUG - Top 5 : 88.278 .grid>.m-text.m-inner
+2025-05-14 11:05:00,466 - DEBUG - Top 5 : 33.390 .form-row>.form-text.breff
+2025-05-14 11:05:00,466 - DEBUG - Top 5 : 32.462 html>body#readabilityBody.isDesktop
+2025-05-14 11:05:00,467 - DEBUG - Top 5 : 24.184 .cookie-consent.js-cookie-consent>.cookie-consent__content
+2025-05-14 11:05:00,506 - INFO - Сайт https://blog.eldorado.ru/publications/glaza-ne-ustayut-golova-ne-bolit-kak-pravilno-nastroit-monitor-34319 додано до тимчасового списку недоступних.
+2025-05-14 11:05:00,507 - INFO - Сайт https://blog.eldorado.ru/publications/ne-dom-i-ne-ulitsa-kak-uznat-ip-adres-kompyutera-34112 додано до тимчасового списку недоступних.
+2025-05-14 11:05:00,508 - INFO - Сайт https://axeum.ru/page/post/ne-rabotaet-knopka-windows-na-klaviature-kak-ispravit-problemu додано до тимчасового списку недоступних.
+2025-05-14 11:05:00,509 - INFO - Сайт https://axeum.ru/page/post/chto-delat-esli-zabyl-na-iphone-parol додано до тимчасового списку недоступних.
