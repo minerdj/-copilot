@@ -37,12 +37,12 @@ import logging
 # Створюємо обробник для файлу
 file_handler = RotatingFileHandler("parser.log", maxBytes=5*1024*1024, backupCount=3, encoding='utf-8')
 file_handler.setLevel(logging.DEBUG)  # Увімкнути DEBUG логи для запису у файл
-file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
+file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(name)s - %(message)s"))
 
 # Створюємо обробник для консолі
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)  # У консолі будуть лише INFO і вище
-console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
+console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(name)s - %(message)s"))
 
 # Очищаємо існуючі обробники
 for handler in logging.getLogger().handlers[:]:
@@ -68,7 +68,8 @@ logging.getLogger("gpu").setLevel(logging.ERROR)
 logging.getLogger("aiohttp").setLevel(logging.WARNING)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 logging.getLogger("readability").setLevel(logging.WARNING)  # Додаємо фільтрацію для "readability" Не показувати в лог файлі логи з реабіліту.
-
+logging.getLogger("multipart.multipart").setLevel(logging.WARNING)  # Вимикаємо DEBUG для multipart
+logging.getLogger("asyncio").setLevel(logging.WARNING)  # Вимикаємо DEBUG для asyncio
 
 status_description = 'Помилка при обробці'
 # Завантаження конфігурації
@@ -204,7 +205,7 @@ def Selenium_Parser(url: str, driver=None) -> str:
         options.add_experimental_option("prefs", prefs)
         # Встановлюємо рівень логування Selenium на ERROR
         LOGGER.setLevel(logging.ERROR)
-        # options.add_argument("--headless") # Додаємо тільки для цієї функції режим headless. Відключаємо загрузку вікна хром.
+        options.add_argument("--headless") # Додаємо тільки для цієї функції режим headless. Відключаємо загрузку вікна хром.
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install(), log_path="nul"),  # Вимикає логи WebDriver
             options=options
         )
@@ -219,7 +220,7 @@ def Selenium_Parser(url: str, driver=None) -> str:
             fix_hairline=True)
     global parsing_counter
     parsing_counter += 1
-    logging.info(f"[STEP 1: START PARSING] #{parsing_counter} - Selenium почав парсинг сторінки: {url}")
+    logging.info(f"[ЕТАП 1: СТАРТ ПАРСИНГУ] #{parsing_counter} - Selenium почав парсинг сторінки: {url}")
     logging.debug(f"[DEBUG] Елемент <body> знайдено на сторінці: {url}")    #print(f"Selenium відкрив {url}")
 
     try:
@@ -242,11 +243,11 @@ def Selenium_Parser(url: str, driver=None) -> str:
         WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
-        logging.info(f"[Selenium_Parser] Сторінка повністю завантажена: {url}")
+        logging.info(f"[ЕТАП 2: Selenium] Сторінка повністю завантажена: {url}")
 
         # Прокрутка сторінки з очікуванням появи конкретного елемента
         scroll_duration = 15  # Тривалість прокрутки в секундах
-        scroll_speed = 800  # Швидкість прокрутки, скролінг (в пікселях за один крок) Було 180 в старому коді.
+        scroll_speed = 300  # Швидкість прокрутки, скролінг (в пікселях за один крок) Було 180 в старому коді.
 
         start_time = time.time()
         while time.time() - start_time < scroll_duration:
@@ -258,7 +259,7 @@ def Selenium_Parser(url: str, driver=None) -> str:
         page_source = driver.page_source
 
         # Логування успішного парсингу
-        logging.info(f"[STEP 3: PARSING COMPLETED] Парсинг сторінки завершено: {url}")
+        logging.info(f"[ЕТАП 3:] Парсинг сторінки завершено: {url}")
         return page_source
 
     except Exception as e:
